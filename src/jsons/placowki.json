@@ -1,0 +1,30 @@
+{
+    "1" : {
+        "nazwa_placowki": "Placówka numer jeden",
+        "adres": "Adres numer jeden"
+    },
+    "2" : {
+        "nazwa_placowki": "Placówka numer dwa",
+        "adres": "Adres numer dwa"
+    },
+    "3" : {
+        "nazwa_placowki": "Placówka numer trzy",
+        "adres": "Adres numer trzy"
+    },
+    "4" : {
+        "nazwa_placowki": "Placówka numer cztery",
+        "adres": "Adres numer cztery"
+    },
+    "5" : {
+        "nazwa_placowki": "Placówka numer pięć",
+        "adres": "Adres numer pięć"
+    },
+    "6" : {
+        "nazwa_placowki": "Placówka numer sześć",
+        "adres": "Adres numer sześć"
+    },
+    "7" : {
+        "nazwa_placowki": "Placówka numer siedem",
+        "adres": "Adres numer siedem"
+    }
+}

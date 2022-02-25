@@ -1,0 +1,50 @@
+{
+    "1" : {
+        "tytul": "Tytuł numer jeden",
+        "data_utworzenia": "Data utworzenia numer jeden",
+        "autor": "Autor numer jeden",
+        "tresc": "Treść numer jeden"
+    },
+    "2" : {
+        "tytul": "Tytuł numer dwa",
+        "data_utworzenia": "Data utworzenia numer dwa",
+        "autor": "Autor numer dwa",
+        "tresc": "Treść numer dwa"
+    },
+    "3" : {
+        "tytul": "Tytuł numer trzy",
+        "data_utworzenia": "Data utworzenia numer trzy",
+        "autor": "Autor numer trzy",
+        "tresc": "Treść numer trzy"
+    },
+    "4" : {
+        "tytul": "Tytuł numer cztery",
+        "data_utworzenia": "Data utworzenia numer cztery",
+        "autor": "Autor numer cztery",
+        "tresc": "Treść numer cztery"
+    },
+    "5" : {
+        "tytul": "Tytuł numer pięć",
+        "data_utworzenia": "Data utworzenia numer pięć",
+        "autor": "Autor numer pięć",
+        "tresc": "Treść numer pięć"
+    },
+    "6" : {
+        "tytul": "Tytuł numer sześć",
+        "data_utworzenia": "Data utworzenia numer sześć",
+        "autor": "Autor numer sześć",
+        "tresc": "Treść numer sześć"
+    },
+    "7" : {
+        "tytul": "Tytuł numer siedem",
+        "data_utworzenia": "Data utworzenia numer siedem",
+        "autor": "Autor numer siedem",
+        "tresc": "Treść numer siedem"
+    },
+    "8" : {
+        "tytul": "Tytuł numer osiem",
+        "data_utworzenia": "Data utworzenia numer osiem",
+        "autor": "Autor numer osiem",
+        "tresc": "Treść numer osiem"
+    }
+}
