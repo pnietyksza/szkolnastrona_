@@ -35,7 +35,7 @@ date.setDate(date.getDate() + 30);
     return (
     <div id='cookies'>
         <span>Ta strona korzysta z ciasteczek, aby świadczyć usługi na najwyższym poziomie</span>
-        <button onClick={addNewCookie}>X</button>
+        <button className='button' onClick={addNewCookie}>X</button>
     </div>
 
   
